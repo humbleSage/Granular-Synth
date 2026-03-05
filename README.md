@@ -2,7 +2,11 @@
 
 Design → code → hardware → repeat.
 
+
 A granular-synth learning project on **NUCLEO-F767ZI** using a proof ladder approach (control layer first, audio later).
+
+## Design target
+See `docs/V1_SPEC.md` for the current V1 instrument design target ("Granular DJ Workstation" — A/B live granular decks).
 
 ## What you need (so far)
 **Hardware**
